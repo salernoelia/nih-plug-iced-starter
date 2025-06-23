@@ -1,0 +1,20 @@
+[package]
+name = "nih-plug-starter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Elia Salerno"]
+license = "ISC"
+
+description = "A simple gain plugin with an iced GUI"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+nih_plug = { git = "https://github.com/robbert-vdh/nih-plug.git", features = ["assert_process_allocs"] }
+nih_plug_iced = { git = "https://github.com/robbert-vdh/nih-plug.git" }
+parking_lot = "0.12"
+atomic_float = "0.1"
+
+[workspace]
+members = ["xtask"]

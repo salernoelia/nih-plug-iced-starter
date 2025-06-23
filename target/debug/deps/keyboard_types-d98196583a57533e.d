@@ -1,0 +1,10 @@
+/Users/eliasalerno/Github/ableton-reverb/target/debug/deps/libkeyboard_types-d98196583a57533e.rmeta: /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs
+
+/Users/eliasalerno/Github/ableton-reverb/target/debug/deps/keyboard_types-d98196583a57533e.d: /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs /Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs
+
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs:
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs:
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs:
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs:
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs:
+/Users/eliasalerno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs:
