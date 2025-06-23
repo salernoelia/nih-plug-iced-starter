@@ -1,0 +1,18 @@
+# Generated files
+target/
+**/*.rs.bk
+
+# Build artifacts
+debug/
+release/
+
+# Cargo files
+Cargo.lock
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
